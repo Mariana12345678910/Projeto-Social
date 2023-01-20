@@ -17,3 +17,7 @@ body {
     background-size: cover;
     background-attachment: fixed;
 }
+main {
+    position: relative;
+    height: 100vh;
+}
